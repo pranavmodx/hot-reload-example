@@ -16,7 +16,7 @@
     "cross-env": "^1.0.7",
     "del": "^2.2.0",
     "electron-hot-loader": "*",
-    "electron-packager": "^5.2.1",
+    "electron-packager": "^17.1.1",
     "electron-prebuilt": "^0.36.0",
     "envify": "^3.4.0",
     "enzyme": "^2.0.0",
